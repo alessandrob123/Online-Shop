@@ -5,3 +5,5 @@ The object is to create a fully functional online shop built with Express.js and
 The basic frontend is mostly complete, the Express.js backend is fully functional, and user sign-up and sign-in are integrated with the database, some forntend in that regard is still to be done.
 
 Next object is to finish frontend view for users that logged in and to add cart functionality.
+
+Keep in mind to run `npm install` in order to use this project.
